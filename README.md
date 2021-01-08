@@ -1,7 +1,7 @@
-## 👋 Jinhong's Github Profile
+## 👋 Dom's Github Profile
 <div align=center>
 
-[![Jinhong's github stats](https://github-readme-stats.vercel.app/api?username=xlffm3&theme=vue&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Dom's github stats](https://github-readme-stats.vercel.app/api?username=DomMorello&theme=vue&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 <div align=center>
 
@@ -24,8 +24,8 @@
 
 ### 📚 Interest
 
-* Solidity (for now)🤔
-* Weight Training 🏋️
+* Solidity & BlockChain(for now)🤔
+* Workout 🏋️
 
 <!--
 **DomMorello/DomMorello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
