@@ -24,7 +24,7 @@
 
 ### 📚 Interest
 
-* Solidity & BlockChain(for now)🤔
+* Java Backend 🤔
 * Workout 🏋️
 
 <!--
