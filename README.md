@@ -24,7 +24,7 @@
 
 ### 📚 Interest
 
-* Java Backend 🤔
+* JavaScript / TypeScript / React Frontend 🤔
 * Workout 🏋️
 
 <!--
