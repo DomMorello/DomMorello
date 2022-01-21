@@ -18,6 +18,7 @@
 ### 💻 Career
 
 - Cadet of 42 Seoul, Innovation Academy `2020.01 - 2022.01`
+- 우아한테크코스 `2022.2 - `
 
 ### 🏫 Education
 
