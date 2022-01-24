@@ -20,7 +20,7 @@
 
 ### 🏫 Education
 
-- Hankuk University of Foreign Studies, Seoul Campus `2013.02 - 2017.03`
+- Hankuk University of Foreign Studies, Seoul Campus `2013.03 - 2017.02`
   - Bachelor of Arts in English Interpretation and Translation
   - Bachelor of Business Administration
 - Cadet of 42 Seoul, Innovation Academy `2020.01 - 2022.01`
