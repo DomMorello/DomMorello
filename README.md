@@ -24,7 +24,7 @@
   - Bachelor of Arts in English Interpretation and Translation
   - Bachelor of Business Administration
 - Cadet of 42 Seoul, Innovation Academy `2020.01 - 2022.01`
-- 우아한테크코스 `2022.2 - 2022.11`
+- 우아한테크코스 4기, (주)우아한형제들 `2022.2 - 2022.11`
 
 ### 📚 Interest
 
