@@ -16,7 +16,7 @@
 </div>
 
 ### 💻 Career
-- null
+- TOSS BANK `2023.2 - ing`
 
 ### 🏫 Education
 
