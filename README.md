@@ -8,7 +8,6 @@
 [![Linkedin Badge](http://img.shields.io/badge/-LinkedIn-informational?style=flat&logoColor=white&logo=linkedin&link=https://www.linkedin.com/in/xlffm3/)](https://www.linkedin.com/in/%EB%8F%99%ED%98%84-%EC%9D%B4-477159232/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:xlffm3@gmail.com)](mailto:zuzudnf@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/hong___o/)](https://www.instagram.com/dom_hxrdy/)
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/qkrwlsghd)](https://www.facebook.com/zuzudnf)
 
 </div>
 
