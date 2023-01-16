@@ -2,11 +2,6 @@
 
 <div align=center>
 
-[![Dom's github stats](https://github-readme-stats.vercel.app/api?username=DomMorello&show_icons=true&count_private=true&theme=vue&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-<div align=center>
-
 [![Portfolio Badge](http://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github&link=https://xlffm3.github.io/portfolio/)](https://velog.io/@dom_hxrdy)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-blueviolet?style=flat-square&logo=Jekyll&link=https://xlffm3.github.io/)](https://velog.io/@dom_hxrdy)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/hong___o/)](https://www.instagram.com/dom_hxrdy/)
